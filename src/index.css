@@ -1,0 +1,12 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica;
+
+}
+.app{
+  min-height: 100vh;
+  display: grid;
+  background-color: #2a1a5e;
+}
